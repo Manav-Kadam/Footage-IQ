@@ -35,7 +35,7 @@ export const createStripeUrl = async () => {
       {
         quantity: 1,
         price_data: {
-          currency: "USD",
+          currency: "INR",
           product_data: {
             name: "Footage IQ Pro",
             description: "Unlimited Hearts",
