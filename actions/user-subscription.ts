@@ -40,7 +40,7 @@ export const createStripeUrl = async () => {
             name: "Footage IQ Pro",
             description: "Unlimited Hearts",
           },
-          unit_amount: 2000, // $20.00 USD
+          unit_amount: 200000, // Rs/2000.00 USD
           recurring: {
             interval: "month",
           },
